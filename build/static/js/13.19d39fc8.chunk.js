@@ -1,0 +1,2 @@
+(this["webpackJsonpwindmill-dashboard-react"]=this["webpackJsonpwindmill-dashboard-react"]||[]).push([[13],{197:function(a,e,n){"use strict";n.r(e);var t=n(0),l=n.n(t),r=n(33);e.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(r.a,null,"Blank"))}}}]);
+//# sourceMappingURL=13.19d39fc8.chunk.js.map
